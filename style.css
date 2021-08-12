@@ -1,0 +1,46 @@
+.header {
+  background: url("https://i.ytimg.com/vi/ragowJOi_ig/maxresdefault.jpg") no-repeat 0 -50px;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+}
+
+.btn {
+  margin: 10px 0;
+  font-size: 1.5em;
+  padding: 10px 35px;
+}
+
+.well {
+  margin-top: 25px;
+}
+.well .text {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+.well .text:before {
+  content: '" ';
+}
+.well .text:after {
+  content: ' "';
+}
+.well .author {
+  font-style: italic;
+}
+.well .author:before {
+  content: "by ";
+  font-style: normal;
+}
+
+.tweet i {
+  color: #55acee;
+  font-size: 2em;
+  line-height: 0;
+}
+.tweet span {
+  font-weight: bold;
+}
+
+.credits {
+  text-align: right;
+}/*# sourceMappingURL=style.css.map */
